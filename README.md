@@ -3,9 +3,8 @@ Jogo de plataforma 2D desenvolvido com Unity engine e C#.
 
 feito por:
 
-
 Alexandre Bastos    
-André Filho
+André Filho  
 Danilo Quadros  
 Danilo Fragoso
 
